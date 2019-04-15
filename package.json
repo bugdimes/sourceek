@@ -1,0 +1,19 @@
+{
+  "name": "sourceek",
+  "version": "1.0.0",
+  "description": "I'll make your life easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugdimes/sourceek.git"
+  },
+  "author": "Divyesh & Kunj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugdimes/sourceek/issues"
+  },
+  "homepage": "https://github.com/bugdimes/sourceek#readme"
+}
